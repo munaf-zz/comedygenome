@@ -1,0 +1,95 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Standup Comedy Genome Project</title>
+	<meta name="description" content="Standup Comedy Genome Project">
+	<meta name="author" content="Munaf Assaf">
+
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<style>
+	body {
+	  padding-top: 60px;
+	  padding-bottom: 40px;
+	}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<script src="js/libs/modernizr-2.5.2.min.js"></script>
+  <script src="js/libs/protovis.min.js"></script>
+  <script src="data/data.js"></script>
+</head>
+<body>
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+    <div class="container">
+
+      <div class="hero-unit">
+        <h1>Standup Comedy Genome Project</h1>
+        <script type="text/javascript+protovis">
+
+          var w = 980,
+          h = 500,
+          colors = pv.Colors.category19();
+
+          var vis = new pv.Panel()
+            .width(w)
+            .height(h)
+            .event("mousedown", pv.Behavior.pan())
+            .event("mousewheel", pv.Behavior.zoom());
+
+          var force = vis.add(pv.Layout.Force)
+            .nodes(miserables.nodes)
+            .links(miserables.links);
+
+          force.link.add(pv.Line);
+
+          force.node.add(pv.Dot)
+            .size(function(d) (d.linkDegree + 4) * Math.pow(this.scale, -1.5))
+            .fillStyle(function(d) d.fix ? "brown" : colors(d.group))
+            .strokeStyle(function() this.fillStyle().darker())
+            .lineWidth(1)
+            .title(function(d) d.nodeName)
+            .event("mousedown", pv.Behavior.drag())
+            .event("drag", force);
+
+          vis.render();
+
+        </script>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Munaf Assaf 2012</p>
+      </footer>
+
+    </div> <!-- /container -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+
+<!-- scripts concatenated and minified via ant build script-->
+<script src="js/libs/bootstrap/transition.js"></script>
+<script src="js/libs/bootstrap/collapse.js"></script>
+
+<script src="js/plugins.js"></script>
+<script src="js/script.js"></script>
+<!-- end scripts-->
+
+<script>
+	var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+</body>
+</html>
