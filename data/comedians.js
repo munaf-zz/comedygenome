@@ -1,8 +1,6 @@
-var comediansObj = {
-  "code":          "/api/status/ok",
-  "result": [
+var comedians = [
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Stephen Lynch"
         },
@@ -109,7 +107,7 @@ var comediansObj = {
           "name": "Chris Rock"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -154,10 +152,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Dave Attell"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -172,7 +170,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "John Poveromo"
         },
@@ -204,7 +202,7 @@ var comediansObj = {
           "name": "Cem Yılmaz"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -246,7 +244,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Demetri Martin"
         },
@@ -257,7 +255,7 @@ var comediansObj = {
           "name": "Mike Birbiglia"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Steven Wright"
         },
@@ -287,7 +285,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Amy Schumer"
         },
@@ -295,7 +293,7 @@ var comediansObj = {
           "name": "Josh Blue"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bob Newhart"
         },
@@ -307,10 +305,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Kathy Griffin"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Kathy Griffin"
         },
@@ -331,10 +329,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Rosie Tran"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Don Rickles"
         },
@@ -349,7 +347,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Amy Schumer"
         },
@@ -357,24 +355,24 @@ var comediansObj = {
           "name": "Rosie Tran"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Bill Hicks"
       }],
       "name": "Margaret Cho",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Larry the Cable Guy"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Moms Mabley"
       }],
       "name": "Phyllis Diller",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jack Benny"
         },
@@ -382,7 +380,7 @@ var comediansObj = {
           "name": "Woody Allen"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jack Benny"
         },
@@ -394,10 +392,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Amy Schumer"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Steve Martin"
         },
@@ -415,10 +413,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Maija DiGiorgio"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Richard Pryor"
         },
@@ -430,17 +428,17 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Jay Leno"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Jack Paar"
       }],
       "name": "Alan King",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jeff Duran"
         },
@@ -457,7 +455,7 @@ var comediansObj = {
           "name": "Jim Norton"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Redd Foxx"
         },
@@ -478,7 +476,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Hans Teeuwen"
         },
@@ -486,7 +484,7 @@ var comediansObj = {
           "name": "Sacha Baron Cohen"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Maharishi Mahesh Yogi"
         },
@@ -498,10 +496,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Chris Rock"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bill Cosby"
         },
@@ -522,7 +520,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dave Chappelle"
         },
@@ -623,7 +621,7 @@ var comediansObj = {
           "name": "Cheech &amp; Chong"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Groucho Marx"
         },
@@ -659,7 +657,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "John Poveromo"
         },
@@ -670,7 +668,7 @@ var comediansObj = {
           "name": "Jimmy Dore"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -700,7 +698,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "John Poveromo"
         },
@@ -708,7 +706,7 @@ var comediansObj = {
           "name": "Ray Ellin"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bill Cosby"
         },
@@ -720,7 +718,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lewis Black"
         },
@@ -758,7 +756,7 @@ var comediansObj = {
           "name": "Johnny Carson"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "H. Allen Smith"
         },
@@ -782,10 +780,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Martin Lawrence"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Chris Tucker"
         },
@@ -797,7 +795,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "George Lopez"
         },
@@ -823,7 +821,7 @@ var comediansObj = {
           "name": "Sugar Sammy"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bill Cosby"
         },
@@ -877,7 +875,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Noah Sife"
         },
@@ -888,7 +886,7 @@ var comediansObj = {
           "name": "Cedric the Entertainer"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Eddie Murphy"
         },
@@ -903,10 +901,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Andy Andrist"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Don Rickles"
         },
@@ -939,7 +937,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Pardis Parker"
         },
@@ -956,7 +954,7 @@ var comediansObj = {
           "name": "Chris Tucker"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -1001,10 +999,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Lewis Costello"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -1016,7 +1014,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jimmy Kimmel"
         },
@@ -1063,7 +1061,7 @@ var comediansObj = {
           "name": "Brendon Small"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jack Paar"
         },
@@ -1090,7 +1088,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dane Cook"
         },
@@ -1098,7 +1096,7 @@ var comediansObj = {
           "name": "Brad Stine"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -1116,7 +1114,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Stephen Colbert"
         },
@@ -1142,7 +1140,7 @@ var comediansObj = {
           "name": "Jimmy Dore"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jay Leno"
         },
@@ -1160,7 +1158,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Richard Pryor"
         },
@@ -1183,14 +1181,14 @@ var comediansObj = {
           "name": "Bill Cosby"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Mort Sahl"
       }],
       "name": "Dick Gregory",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lisa Lampanelli"
         },
@@ -1243,7 +1241,7 @@ var comediansObj = {
           "name": "Jerry Seinfeld"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jack Paar"
         },
@@ -1255,7 +1253,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dave Chappelle"
         },
@@ -1299,7 +1297,7 @@ var comediansObj = {
           "name": "Ed Helms"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Richard Pryor"
         },
@@ -1323,7 +1321,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Ricky Gervais"
         },
@@ -1346,7 +1344,7 @@ var comediansObj = {
           "name": "Jon Stewart"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Woody Allen"
         },
@@ -1358,7 +1356,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lewis Black"
         },
@@ -1525,7 +1523,7 @@ var comediansObj = {
           "name": "Brendon Small"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jerry Lewis"
         },
@@ -1573,7 +1571,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Cardis Cardell Willis"
         },
@@ -1605,17 +1603,17 @@ var comediansObj = {
           "name": "Jack Paar"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Rita Rudner"
       }],
       "name": "Jack Benny",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Artie Lange"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Rodney Dangerfield"
         },
@@ -1627,7 +1625,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Patton Oswalt"
         },
@@ -1653,7 +1651,7 @@ var comediansObj = {
           "name": "Judd Apatow"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bob Newhart"
         },
@@ -1686,7 +1684,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Larry the Cable Guy"
         },
@@ -1697,14 +1695,14 @@ var comediansObj = {
           "name": "Bill Engvall"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Jerry Clower"
       }],
       "name": "Jeff Foxworthy",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "John Poveromo"
         },
@@ -1727,7 +1725,7 @@ var comediansObj = {
           "name": "Ed Helms"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "David Letterman"
         },
@@ -1760,7 +1758,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Bill Cosby"
         },
@@ -1792,24 +1790,24 @@ var comediansObj = {
           "name": "Cheech &amp; Chong"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Irwin Corey"
       }],
       "name": "Jonathan Winters",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "George Lopez"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Richard Pryor"
       }],
       "name": "Katt Williams",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lewis Black"
         },
@@ -1913,7 +1911,7 @@ var comediansObj = {
           "name": "Peter Cook"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Dick Gregory"
         },
@@ -1928,7 +1926,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dara Ó Briain"
         },
@@ -1939,7 +1937,7 @@ var comediansObj = {
           "name": "Jeff Dye"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -1972,7 +1970,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dave Chappelle"
         },
@@ -1989,7 +1987,7 @@ var comediansObj = {
           "name": "Kevin Hart"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Eddie Murphy"
         },
@@ -2013,7 +2011,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Barack Obama"
         },
@@ -2024,7 +2022,7 @@ var comediansObj = {
           "name": "Michael Jackson"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Milton Berle"
         },
@@ -2054,10 +2052,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Garret Schuelke"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bobcat Goldthwait"
         },
@@ -2090,7 +2088,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Richard Pryor"
         },
@@ -2110,7 +2108,7 @@ var comediansObj = {
           "name": "Dave Chappelle"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Flip Wilson"
         },
@@ -2122,17 +2120,17 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Daren Streblow"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Bob Newhart"
       }],
       "name": "Ray Romano",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Richard Pryor"
         },
@@ -2182,7 +2180,7 @@ var comediansObj = {
           "name": "Michael Douglas"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Milton Berle"
         },
@@ -2203,7 +2201,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lewis Black"
         },
@@ -2340,7 +2338,7 @@ var comediansObj = {
           "name": "Ralphie May"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Paul Mooney"
         },
@@ -2373,7 +2371,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jerry Seinfeld"
         },
@@ -2387,7 +2385,7 @@ var comediansObj = {
           "name": "Bill Maher"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Rodney Dangerfield"
         },
@@ -2405,7 +2403,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Al Pacino"
         },
@@ -2434,7 +2432,7 @@ var comediansObj = {
           "name": "Gabriel Iglesias"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Stanley Kubrick"
         },
@@ -2455,7 +2453,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Conan O'Brien"
         },
@@ -2484,7 +2482,7 @@ var comediansObj = {
           "name": "Jeff Duran"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "W. C. Fields"
         },
@@ -2496,10 +2494,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Larry the Cable Guy"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jeff Foxworthy"
         },
@@ -2520,7 +2518,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jeff Duran"
         },
@@ -2573,7 +2571,7 @@ var comediansObj = {
           "name": "Pauly Shore"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -2591,7 +2589,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "David Letterman"
         },
@@ -2605,14 +2603,14 @@ var comediansObj = {
           "name": "Johnny Carson"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Alfred Korzybski"
       }],
       "name": "Steve Allen",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Sarah Silverman"
         },
@@ -2692,7 +2690,7 @@ var comediansObj = {
           "name": "Brendon Small"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Robert Benchley"
         },
@@ -2713,7 +2711,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Demetri Martin"
         },
@@ -2727,7 +2725,7 @@ var comediansObj = {
           "name": "Dave Attell"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Woody Allen"
         },
@@ -2742,7 +2740,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Larry David"
         },
@@ -2834,7 +2832,7 @@ var comediansObj = {
           "name": "Ricky Gervais"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Mort Sahl"
         },
@@ -2870,10 +2868,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Robert Kelly"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jeff Foxworthy"
         },
@@ -2909,7 +2907,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Josh Thomas"
         },
@@ -2926,7 +2924,7 @@ var comediansObj = {
           "name": "Kevin Bridges"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Larry David"
         },
@@ -2959,10 +2957,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Ryan Maglunob"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Cheech &amp; Chong"
         },
@@ -2983,7 +2981,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Josh Flitter"
         },
@@ -2994,7 +2992,7 @@ var comediansObj = {
           "name": "Dat Phan"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Sam Kinison"
         },
@@ -3015,7 +3013,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Dat Phan"
         },
@@ -3029,7 +3027,7 @@ var comediansObj = {
           "name": "Iliza Shlesinger"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Robin Williams"
         },
@@ -3083,7 +3081,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Monty Python"
         },
@@ -3118,7 +3116,7 @@ var comediansObj = {
           "name": "Peter Cook"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Groucho Marx"
         },
@@ -3142,7 +3140,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Harry Hill"
         },
@@ -3165,7 +3163,7 @@ var comediansObj = {
           "name": "Daren Streblow"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bill Hicks"
         },
@@ -3198,7 +3196,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Paul Merton"
         },
@@ -3209,7 +3207,7 @@ var comediansObj = {
           "name": "Don Hertzfeldt"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Roscoe Arbuckle"
         },
@@ -3221,7 +3219,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jason Lee"
         },
@@ -3250,7 +3248,7 @@ var comediansObj = {
           "name": "Todd Barry"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Del Close"
         },
@@ -3277,7 +3275,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Ed Helms"
         },
@@ -3291,7 +3289,7 @@ var comediansObj = {
           "name": "Aasif Mandvi"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jon Stewart"
         },
@@ -3318,7 +3316,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Bill Cosby"
         },
@@ -3350,14 +3348,14 @@ var comediansObj = {
           "name": "Stoo Hample"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Robert Benchley"
       }],
       "name": "Groucho Marx",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Voltaire"
         },
@@ -3659,7 +3657,7 @@ var comediansObj = {
           "name": "Syd Barrett"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Michel de Montaigne"
         },
@@ -3707,7 +3705,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Samuel Beckett"
         },
@@ -3793,7 +3791,7 @@ var comediansObj = {
           "name": "Emma Goldman"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Edgar Allan Poe"
         },
@@ -3841,7 +3839,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Loren Bouchard"
         },
@@ -3861,7 +3859,7 @@ var comediansObj = {
           "name": "Liam Neeson"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Don Knotts"
         },
@@ -3939,7 +3937,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Artie Lange"
         },
@@ -3953,7 +3951,7 @@ var comediansObj = {
           "name": "Seth Rogen"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lucille Ball"
         },
@@ -3965,7 +3963,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Broken Lizard"
         },
@@ -3985,24 +3983,24 @@ var comediansObj = {
           "name": "Mike Myers"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Ernie Kovacs"
       }],
       "name": "Chevy Chase",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Mike Myers"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Lucille Ball"
       }],
       "name": "Jane Curtin",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Rasika Mathur"
         },
@@ -4010,27 +4008,27 @@ var comediansObj = {
           "name": "Josh Flitter"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "George Carlin"
       }],
       "name": "Ben Stiller",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Rasika Mathur"
       }],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Dennis Miller"
       }],
       "name": "David Spade",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Skye Regan"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Dennis Miller"
         },
@@ -4042,7 +4040,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Larry David"
         },
@@ -4068,7 +4066,7 @@ var comediansObj = {
           "name": "Bill Hader"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bob Hope"
         },
@@ -4083,7 +4081,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Judd Apatow"
         },
@@ -4097,7 +4095,7 @@ var comediansObj = {
           "name": "Jimmy Fallon"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Chris Rush"
         },
@@ -4109,7 +4107,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jack Dee"
         },
@@ -4135,7 +4133,7 @@ var comediansObj = {
           "name": "Brendon Small"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Woody Allen"
         },
@@ -4153,7 +4151,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jimmy Kimmel"
         },
@@ -4173,7 +4171,7 @@ var comediansObj = {
           "name": "Shannon Green"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Don Rickles"
         },
@@ -4185,10 +4183,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Artie Lange"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Woody Allen"
         },
@@ -4206,7 +4204,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "David Letterman"
         },
@@ -4226,7 +4224,7 @@ var comediansObj = {
           "name": "Alan King"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Jack Benny"
         },
@@ -4238,7 +4236,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "George Carlin"
         },
@@ -4273,7 +4271,7 @@ var comediansObj = {
           "name": "Cheech &amp; Chong"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Irwin Corey"
         },
@@ -4285,7 +4283,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Carlos Mencia"
         },
@@ -4293,7 +4291,7 @@ var comediansObj = {
           "name": "Matthew Creed"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Paul Mooney"
         },
@@ -4323,7 +4321,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Shelley Berman"
         },
@@ -4343,7 +4341,7 @@ var comediansObj = {
           "name": "Lenny Bruce"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Charlie Chaplin"
         },
@@ -4355,7 +4353,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Bob Newhart"
         },
@@ -4387,14 +4385,14 @@ var comediansObj = {
           "name": "Groucho Marx"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Sara Murphy"
       }],
       "name": "Robert Benchley",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Paul Reubens"
         },
@@ -4402,14 +4400,14 @@ var comediansObj = {
           "name": "Andy Kaufman"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Marx Brothers"
       }],
       "name": "Soupy Sales",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Lewis Black"
         },
@@ -4417,17 +4415,17 @@ var comediansObj = {
           "name": "Chris Rush"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Irwin Corey"
       }],
       "name": "Shelley Berman",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Daren Streblow"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Denis Leary"
         },
@@ -4454,10 +4452,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Kathy Burke"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Malcolm Hardee"
         },
@@ -4469,10 +4467,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "David Walliams"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "John Cleese"
         },
@@ -4484,7 +4482,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "David Walliams"
         },
@@ -4492,14 +4490,14 @@ var comediansObj = {
           "name": "Richard Herring"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "John Cleese"
       }],
       "name": "Rik Mayall",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Jennifer Saunders"
         },
@@ -4522,7 +4520,7 @@ var comediansObj = {
           "name": "Mike Myers"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "William Shakespeare"
         },
@@ -4534,7 +4532,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "David Foster Wallace"
         },
@@ -4545,14 +4543,14 @@ var comediansObj = {
           "name": "David Markson"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Thomas Bernhard"
       }],
       "name": "William Gaddis",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Gertrude Stein"
         },
@@ -4581,7 +4579,7 @@ var comediansObj = {
           "name": "John Lachs"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Josiah Royce"
         },
@@ -4620,7 +4618,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Ian McEwan"
         },
@@ -4676,7 +4674,7 @@ var comediansObj = {
           "name": "David Foster Wallace"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Henry Green"
         },
@@ -4733,7 +4731,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Patton Oswalt"
         },
@@ -4756,7 +4754,7 @@ var comediansObj = {
           "name": "Brendon Small"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -4792,10 +4790,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Garret Schuelke"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -4822,10 +4820,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Dat Phan"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Johnny Carson"
         },
@@ -4846,10 +4844,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Andy Andrist"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "George Carlin"
         },
@@ -4870,7 +4868,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Larry the Cable Guy"
         },
@@ -4890,7 +4888,7 @@ var comediansObj = {
           "name": "H. Jon Benjamin"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Charlie Chaplin"
         },
@@ -4902,7 +4900,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "John Belushi"
         },
@@ -4913,7 +4911,7 @@ var comediansObj = {
           "name": "Bill Murray"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Bob Newhart"
         },
@@ -4931,10 +4929,10 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [{
+      "influenced": [{
         "name": "Allen Ginsberg"
       }],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -4946,7 +4944,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Larry the Cable Guy"
         },
@@ -4954,14 +4952,14 @@ var comediansObj = {
           "name": "Matthew Creed"
         }
       ],
-      "/influence/influence_node/influenced_by": [{
+      "influenced_by": [{
         "name": "Jeff Foxworthy"
       }],
       "name": "Bill Engvall",
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Louis C.K."
         },
@@ -4990,7 +4988,7 @@ var comediansObj = {
           "name": "Joe Satriani"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "David Letterman"
         },
@@ -5026,7 +5024,7 @@ var comediansObj = {
       "type": "/base/americancomedy/comedian"
     },
     {
-      "/influence/influence_node/influenced": [
+      "influenced": [
         {
           "name": "Russell Brand"
         },
@@ -5040,7 +5038,7 @@ var comediansObj = {
           "name": "Kenny Everett"
         }
       ],
-      "/influence/influence_node/influenced_by": [
+      "influenced_by": [
         {
           "name": "Lenny Bruce"
         },
@@ -5051,7 +5049,4 @@ var comediansObj = {
       "name": "Peter Cook",
       "type": "/base/americancomedy/comedian"
     }
-  ],
-  "status":        "200 OK",
-  "transaction_id": "cache;cache03.p01.sjc1:8101;2012-02-14T00:26:59Z;0016"
-};
+  ];
