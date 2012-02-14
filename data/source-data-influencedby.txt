@@ -1,0 +1,3319 @@
+{
+"result": [
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Jimi Hendrix"
+}, 
+{
+"name": "Noam Chomsky"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Robert Benchley"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "S. J. Perelman"
+}, 
+{
+"name": "Terence McKenna"
+}, 
+{
+"name": "Peter Cook"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Hicks"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Pier Paolo Pasolini"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Colin Quinn"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Robert Klein"
+}, 
+{
+"name": "Larry David"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Jean Shepherd"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Michael Gough"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Pat Hingle"
+}, 
+{
+"name": "Ricardo Montalb\u00e1n"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jerry Seinfeld"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Steven Wright"
+}, 
+{
+"name": "Emo Philips"
+}, 
+{
+"name": "Bobcat Goldthwait"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Jerry Seinfeld"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}, 
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "George Carlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Mitch Hedberg"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Murray"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Zach Galifianakis"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ellen DeGeneres"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Kathy Griffin"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Joan Rivers"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Don Rickles"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Kathy Griffin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Dean Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Lisa Lampanelli"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Margaret Cho"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Lily Tomlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Paula Poundstone"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Moms Mabley"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Phyllis Diller"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Woody Allen"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rita Rudner"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Joan Rivers"
+}, 
+{
+"name": "Lisa Lampanelli"
+}, 
+{
+"name": "Margaret Cho"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rosie Tran"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Paul Mooney"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Sandra Bernhard"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Larry David"
+}, 
+{
+"name": "Dennis Miller"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Sarah Silverman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Moms Mabley"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Whoopi Goldberg"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Paar"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Alan King"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "John Travolta"
+}, 
+{
+"name": "Henry Winkler"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Andrew Dice Clay"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Maharishi Mahesh Yogi"
+}, 
+{
+"name": "Soupy Sales"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Andy Kaufman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Flip Wilson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Arsenio Hall"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Howard Stern"
+}, 
+{
+"name": "John Belushi"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Richard Lewis"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Jackie Gleason"
+}, 
+{
+"name": "Bill Murray"
+}, 
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Andrew Dice Clay"
+}, 
+{
+"name": "Jackie Martling"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Peter Sellers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Artie Lange"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Moms Mabley"
+}, 
+{
+"name": "Nipsey Russell"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bernie Mac"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Groucho Marx"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "Moms Mabley"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Dick Gregory"
+}, 
+{
+"name": "Jimmy Durante"
+}, 
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Redd Foxx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Cosby"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Steve Allen"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "Gore Vidal"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Robert Klein"
+}, 
+{
+"name": "Lenny Bruce"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Maher"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "H. Jon Benjamin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Billy Crystal"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "H. Allen Smith"
+}, 
+{
+"name": "Max Shulman"
+}, 
+{
+"name": "James Thurber"
+}, 
+{
+"name": "Robert Benchley"
+}, 
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Irwin Corey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bob Newhart"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Redd Foxx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bob Saget"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Lopez"
+}, 
+{
+"name": "Paul Mooney"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Carlos Mencia"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chris Tucker"
+}, 
+{
+"name": "Tim Lovejoy"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Cedric the Entertainer"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Flip Wilson"
+}, 
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Dick Gregory"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Martin Lawrence"
+}, 
+{
+"name": "Bernie Mac"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Chris Rock"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Martin Lawrence"
+}, 
+{
+"name": "Dave Chappelle"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Chris Tucker"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Ernie Kovacs"
+}, 
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Craig Ferguson"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Damon Wayans"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Denis Leary"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Louis C.K."
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dane Cook"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Colin Quinn"
+}, 
+{
+"name": "Steven Wright"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Richard Jeni"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dave Attell"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Martin Lawrence"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Chris Rock"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Mel Blanc"
+}, 
+{
+"name": "Bill Murray"
+}, 
+{
+"name": "Chris Tucker"
+}, 
+{
+"name": "Paul Mooney"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dave Chappelle"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "David Cross"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Paar"
+}, 
+{
+"name": "Steve Allen"
+}, 
+{
+"name": "Paul Dixon"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Ernie Kovacs"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Brendon Small"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "David Letterman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Mitch Hedberg"
+}, 
+{
+"name": "Steven Wright"
+}, 
+{
+"name": "Eddie Izzard"
+}, 
+{
+"name": "Emo Philips"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Demetri Martin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Richard Pryor"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Denis Leary"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jay Leno"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Richard Belzer"
+}, 
+{
+"name": "Dean Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dennis Miller"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Mort Sahl"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dick Gregory"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Paar"
+}, 
+{
+"name": "Milton Berle"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Don Rickles"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Paul Mooney"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Eddie Griffin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Peter Sellers"
+}, 
+{
+"name": "Jerry Lewis"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Elvis Presley"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Eddie Murphy"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Jonathan Winters"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Frank Caliendo"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Paul Rodr\u00edguez"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Gabriel Iglesias"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Garry Shandling"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jerry Lewis"
+}, 
+{
+"name": "Ernie Kovacs"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Danny Kaye"
+}, 
+{
+"name": "Spike Jones"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Dick Gregory"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Jack Paar"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "Marx Brothers"
+}, 
+{
+"name": "Monty Python"
+}, 
+{
+"name": "Brendon Small"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "George Carlin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Rita Rudner"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jack Benny"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jackie Martling"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Redd Foxx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jamie Foxx"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Robert Klein"
+}, 
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Alan King"
+}, 
+{
+"name": "David Letterman"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jay Leno"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Newhart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jeff Dunham"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Andrew Dice Clay"
+}, 
+{
+"name": "Howard Stern"
+}, 
+{
+"name": "Rodney Dangerfield"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jeff Duran"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jerry Clower"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jeff Foxworthy"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jim Breuer"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "David Letterman"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jim Gaffigan"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jimmie Walker"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Howard Stern"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jimmy Kimmel"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Don Rickles"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jimmy Pardo"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Joe Rogan"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Richard Jeni"
+}, 
+{
+"name": "Eddie Izzard"
+}, 
+{
+"name": "Billy Crystal"
+}, 
+{
+"name": "Jerry Seinfeld"
+}, 
+{
+"name": "Jon Stewart"
+}, 
+{
+"name": "Bill Maher"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "John Poveromo"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Dennis Miller"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Garry Shandling"
+}, 
+{
+"name": "Kurt Vonnegut"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jon Stewart"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Irwin Corey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jonathan Winters"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Richard Pryor"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Katt Williams"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Dick Gregory"
+}, 
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "Irwin Corey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Lenny Bruce"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Shelley Berman"
+}, 
+{
+"name": "Lily Tomlin"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Bill Maher"
+}, 
+{
+"name": "Jon Stewart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Lewis Black"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Cedric the Entertainer"
+}, 
+{
+"name": "Redd Foxx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Martin Lawrence"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chuck Palahniuk"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Mitch Hedberg"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Mike Birbiglia"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Robert Klein"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Nick DiPaolo"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Milton Berle"
+}, 
+{
+"name": "Dean Martin"
+}, 
+{
+"name": "James Brown"
+}, 
+{
+"name": "Orson Welles"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Michael Gough"
+}, 
+{
+"name": "Foster Brooks"
+}, 
+{
+"name": "Pat Hingle"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Nipsey Russell"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bobcat Goldthwait"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Blaine Capatch"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Jay Leno"
+}, 
+{
+"name": "Emo Philips"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Louis C.K."
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Patton Oswalt"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Flip Wilson"
+}, 
+{
+"name": "Redd Foxx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Paul Mooney"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Newhart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ray Romano"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Milton Berle"
+}, 
+{
+"name": "Michael Gough"
+}, 
+{
+"name": "Kirk Douglas"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Muddy Waters"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Redd Foxx"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rich Vos"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Paul Mooney"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Redd Foxx"
+}, 
+{
+"name": "Dick Gregory"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Moms Mabley"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Jonathan Winters"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Richard Pryor"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Steve Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rob Paravonian"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "Jack Paar"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Robert Klein"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Stanley Kubrick"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Peter Sellers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Robin Williams"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rodney Carrington"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "W. C. Fields"
+}, 
+{
+"name": "Groucho Marx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rodney Dangerfield"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jeff Foxworthy"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ron White"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Fred Rogers"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "George Carlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Sam Kinison"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Gordon Lightfoot"
+}, 
+{
+"name": "Paul Simon"
+}, 
+{
+"name": "Joni Mitchell"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Harry Chapin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Stephen Lynch"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Alfred Korzybski"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Steve Allen"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Steve Harvey"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robert Benchley"
+}, 
+{
+"name": "Jerry Lewis"
+}, 
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Red Skelton"
+}, 
+{
+"name": "Brendon Small"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Steve Martin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Paul Auster"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Steven Wright"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chevy Chase"
+}, 
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tim Allen"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Roseanne Barr"
+}, 
+{
+"name": "Penn \u0026amp; Teller"
+}, 
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tim Mars"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Murray"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Todd Barry"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Victor Borge"
+}, 
+{
+"name": "Garry Shandling"
+}, 
+{
+"name": "Woody Allen"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Wayne Federman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Mort Sahl"
+}, 
+{
+"name": "Robert Benchley"
+}, 
+{
+"name": "Groucho Marx"
+}, 
+{
+"name": "Anton Chekhov"
+}, 
+{
+"name": "Cole Porter"
+}, 
+{
+"name": "Bob Hope"
+}, 
+{
+"name": "Buster Keaton"
+}, 
+{
+"name": "Ingmar Bergman"
+}, 
+{
+"name": "Rita Rudner"
+}, 
+{
+"name": "Brendon Small"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Woody Allen"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Peter Sellers"
+}, 
+{
+"name": "Chris Morris"
+}, 
+{
+"name": "Andy Kaufman"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Sacha Baron Cohen"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jeff Foxworthy"
+}, 
+{
+"name": "Ron White"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Henny Youngman"
+}, 
+{
+"name": "Charlie Callas"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Phyllis Diller"
+}, 
+{
+"name": "Milton Berle"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Bill Engvall"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Larry the Cable Guy"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Richard Pryor"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Patrice Oneal"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Larry David"
+}, 
+{
+"name": "Garry Shandling"
+}, 
+{
+"name": "Jerry Seinfeld"
+}, 
+{
+"name": "Louis C.K."
+}, 
+{
+"name": "Paul Merton"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Chris Langham"
+}, 
+{
+"name": "Christopher Guest"
+}, 
+{
+"name": "Steve Coogan"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ricky Gervais"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Cheech \u0026amp; Chong"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Steve Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Russell Peters"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Jerry Lewis"
+}, 
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Dick Van Dyke"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jim Carrey"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Rodney Dangerfield"
+}, 
+{
+"name": "Abraham Lincoln"
+}, 
+{
+"name": "Bill Murray"
+}, 
+{
+"name": "Bob Hope"
+}, 
+{
+"name": "Jay Leno"
+}, 
+{
+"name": "Steve Allen"
+}, 
+{
+"name": "Dick Cavett"
+}, 
+{
+"name": "Danny Kaye"
+}, 
+{
+"name": "W. C. Fields"
+}, 
+{
+"name": "Robert Smigel"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Conan O'Brien"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "John Belushi"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Chris Farley"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Groucho Marx"
+}, 
+{
+"name": "Spike Jones"
+}, 
+{
+"name": "W. C. Fields"
+}, 
+{
+"name": "Flann O'Brien"
+}, 
+{
+"name": "Edward Lear"
+}, 
+{
+"name": "Walt Disney"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Spike Milligan"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Monty Python"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Spike Milligan"
+}, 
+{
+"name": "Billy Connolly"
+}, 
+{
+"name": "Jerry Sadowitz"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Eddie Izzard"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Roscoe Arbuckle"
+}, 
+{
+"name": "Harold Lloyd"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Buster Keaton"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Del Close"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Groucho Marx"
+}, 
+{
+"name": "Peter Sellers"
+}, 
+{
+"name": "W. C. Fields"
+}, 
+{
+"name": "Jonathan Winters"
+}, 
+{
+"name": "David H. Steinberg"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Murray"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jon Stewart"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Dean Martin"
+}, 
+{
+"name": "Don Novello"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Dennis Miller"
+}, 
+{
+"name": "Steve Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Stephen Colbert"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robert Benchley"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Groucho Marx"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Michel de Montaigne"
+}, 
+{
+"name": "Thomas More"
+}, 
+{
+"name": "Plutarch"
+}, 
+{
+"name": "Geoffrey Chaucer"
+}, 
+{
+"name": "Christopher Marlowe"
+}, 
+{
+"name": "Plautus"
+}, 
+{
+"name": "Terence"
+}, 
+{
+"name": "Thomas Kyd"
+}, 
+{
+"name": "Ovid"
+}, 
+{
+"name": "John Pory"
+}, 
+{
+"name": "Seneca the Younger"
+}, 
+{
+"name": "Virgil"
+}, 
+{
+"name": "Edmund Spenser"
+}, 
+{
+"name": "Lucian"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "William Shakespeare"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Edgar Allan Poe"
+}, 
+{
+"name": "John Keats"
+}, 
+{
+"name": "Walter Pater"
+}, 
+{
+"name": "James McNeill Whistler"
+}, 
+{
+"name": "W. S. Gilbert"
+}, 
+{
+"name": "John Ruskin"
+}, 
+{
+"name": "William Shakespeare"
+}, 
+{
+"name": "Aristotle"
+}, 
+{
+"name": "Plato"
+}, 
+{
+"name": "Victor Hugo"
+}, 
+{
+"name": "Peter Kropotkin"
+}, 
+{
+"name": "William Godwin"
+}, 
+{
+"name": "Dante Alighieri"
+}, 
+{
+"name": "Honor\u00e9 de Balzac"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Oscar Wilde"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Juvenal"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Martial"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Billy Connolly"
+}, 
+{
+"name": "Tommy Cooper"
+}, 
+{
+"name": "Michael McIntyre"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jason Manford"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Emo Philips"
+}, 
+{
+"name": "Howie Mandel"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Eugene Mirman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Don Knotts"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Foster Brooks"
+}, 
+{
+"name": "Walt Disney"
+}, 
+{
+"name": "Pat Hingle"
+}, 
+{
+"name": "Dennis Hopper"
+}, 
+{
+"name": "Charlie Callas"
+}, 
+{
+"name": "Christopher Lee"
+}, 
+{
+"name": "Jack Klugman"
+}, 
+{
+"name": "Tom Bosley"
+}, 
+{
+"name": "Milton Berle"
+}, 
+{
+"name": "Vincent Price"
+}, 
+{
+"name": "Dean Martin"
+}, 
+{
+"name": "Leslie Nielsen"
+}, 
+{
+"name": "Johnny Cash"
+}, 
+{
+"name": "Orson Welles"
+}, 
+{
+"name": "Henry Winkler"
+}, 
+{
+"name": "Michael Gough"
+}, 
+{
+"name": "Donald Pleasence"
+}, 
+{
+"name": "Cesar Romero"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "H. Jon Benjamin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lucille Ball"
+}, 
+{
+"name": "David H. Steinberg"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "John Belushi"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Ernie Kovacs"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Chevy Chase"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lucille Ball"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jane Curtin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ben Stiller"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "John Belushi"
+}, 
+{
+"name": "Dan Aykroyd"
+}, 
+{
+"name": "Peter Sellers"
+}, 
+{
+"name": "Chevy Chase"
+}, 
+{
+"name": "Monty Python"
+}, 
+{
+"name": "John Cleese"
+}, 
+{
+"name": "Jane Curtin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Mike Myers"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Dennis Miller"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "David Spade"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chevy Chase"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Will Ferrell"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Martin Lawrence"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tracy Morgan"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Conan O'Brien"
+}, 
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Jay Leno"
+}, 
+{
+"name": "Adam Sandler"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jimmy Fallon"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Dennis Miller"
+}, 
+{
+"name": "Steve Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tina Fey"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Steve Martin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Will Forte"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bill Cosby"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Kenan Thompson"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Mel Brooks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Hader"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Adam Sandler"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Andy Samberg"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Adam Carolla"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Hope"
+}, 
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Fred Astaire"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Mel Brooks"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Soupy Sales"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Paul Reubens"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chris Rush"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Adam Sandler"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Irwin Corey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tom Smothers"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Phil Silvers"
+}, 
+{
+"name": "Mel Brooks"
+}, 
+{
+"name": "Bill Murray"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Larry David"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Lenny Bruce"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Howard Stern"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Jonathan Winters"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Richard Lewis"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "W. C. Fields"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ed McMahon"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jack Benny"
+}, 
+{
+"name": "Will Rogers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jack Paar"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ray Combs"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Irwin Corey"
+}, 
+{
+"name": "Will Rogers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Mort Sahl"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Paul Mooney"
+}, 
+{
+"name": "Cheech \u0026amp; Chong"
+}, 
+{
+"name": "Chris Rock"
+}, 
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Freddie Prinze"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Katt Williams"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "George Lopez"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Jim Carrey"
+}, 
+{
+"name": "Jerry Seinfeld"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Chris Rock"
+}, 
+{
+"name": "Brian Regan"
+}, 
+{
+"name": "John Ritter"
+}, 
+{
+"name": "Conan O'Brien"
+}, 
+{
+"name": "Benny Hill"
+}, 
+{
+"name": "Buddy Hackett"
+}, 
+{
+"name": "Pablo Francisco"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dat Phan"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Charlie Chaplin"
+}, 
+{
+"name": "Marx Brothers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Irwin Corey"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sara Murphy"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Robert Benchley"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Marx Brothers"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Soupy Sales"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Irwin Corey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Shelley Berman"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Larry David"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jeff Garlin"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jon Stewart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Steve Carell"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Stephen Colbert"
+}, 
+{
+"name": "Eddie Murphy"
+}, 
+{
+"name": "Jon Stewart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Ed Helms"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Gregg Turkington"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Tim Heidecker"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Chris Rush"
+}, 
+{
+"name": "Jackie Gleason"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Richard Pryor"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Adam Ferrara"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Dave Chappelle"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Louis C.K."
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Burr"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Richard Pryor"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Dean Obeidallah"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Andrew Dice Clay"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jim Florentine"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Ellen DeGeneres"
+}, 
+{
+"name": "Conan O'Brien"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Josh Blue"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Eddie Murphy"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Andy Milonakis"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Denis Leary"
+}, 
+{
+"name": "Robin Williams"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Bill Hicks"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Brad Stine"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Malcolm Hardee"
+}, 
+{
+"name": "Paul Whitehouse"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Harry Enfield"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Stephen Colbert"
+}, 
+{
+"name": "Jon Stewart"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rob Corddry"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Andrew Dice Clay"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Keith Malley"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "John Cleese"
+}, 
+{
+"name": "Monty Python"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Adrian Edmondson"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "John Cleese"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Rik Mayall"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "William Shakespeare"
+}, 
+{
+"name": "Spike Milligan"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "John Cleese"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "S. J. Perelman"
+}, 
+{
+"name": "Joseph Heller"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Henry Beard"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Thomas Bernhard"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "William Gaddis"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Angie Debo"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Oliver La Farge"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Josiah Royce"
+}, 
+{
+"name": "Baruch Spinoza"
+}, 
+{
+"name": "Arthur Schopenhauer"
+}, 
+{
+"name": "Democritus"
+}, 
+{
+"name": "Friedrich Nietzsche"
+}, 
+{
+"name": "Ralph Waldo Emerson"
+}, 
+{
+"name": "William James"
+}, 
+{
+"name": "Aristotle"
+}, 
+{
+"name": "Plato"
+}, 
+{
+"name": "Lucretius"
+}, 
+{
+"name": "John Dewey"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "George Santayana"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Judd Apatow"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Nicholas Stoller"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Henry Green"
+}, 
+{
+"name": "James Joyce"
+}, 
+{
+"name": "Marcel Proust"
+}, 
+{
+"name": "J. D. Salinger"
+}, 
+{
+"name": "James Thurber"
+}, 
+{
+"name": "Ernest Hemingway"
+}, 
+{
+"name": "S\u00f8ren Kierkegaard"
+}, 
+{
+"name": "William Shakespeare"
+}, 
+{
+"name": "Truman Capote"
+}, 
+{
+"name": "John Barth"
+}, 
+{
+"name": "Arthur Schopenhauer"
+}, 
+{
+"name": "Karl Barth"
+}, 
+{
+"name": "John Cheever"
+}, 
+{
+"name": "Alice Munro"
+}, 
+{
+"name": "Nathaniel Hawthorne"
+}, 
+{
+"name": "Franz Kafka"
+}, 
+{
+"name": "Vladimir Vladimirovich Nabokov"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "John Updike"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Conan O'Brien"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Iliza Shlesinger"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Rik Mayall"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Richard Herring"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Marc Maron"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Bill Cosby"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Lenny Clarke"
+}, 
+{
+"name": "Steve Sweeney"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Robert Downey Sr."
+}, 
+{
+"name": "Brendon Small"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Louis C.K."
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Andrew Dice Clay"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Don Rickles"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Samuel Beckett"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Jim Norton"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "David Letterman"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Richard Pryor"
+}, 
+{
+"name": "Benny Hill"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Pablo Francisco"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Sam Kinison"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Bill Hicks"
+}, 
+{
+"name": "Andy Andrist"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Doug Stanhope"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Charlie Chaplin"
+}, 
+{
+"name": "Groucho Marx"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Milton Berle"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Bob Newhart"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Johnny Carson"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "David H. Steinberg"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Allen Ginsberg"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Wavy Gravy"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Sam Kinison"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Pauly Shore"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Jeff Foxworthy"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Bill Engvall"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "David Letterman"
+}, 
+{
+"name": "George Carlin"
+}, 
+{
+"name": "Larry David"
+}, 
+{
+"name": "Steve Martin"
+}, 
+{
+"name": "Johnny Carson"
+}, 
+{
+"name": "Woody Allen"
+}, 
+{
+"name": "Marx Brothers"
+}, 
+{
+"name": "Louis C.K."
+}, 
+{
+"name": "Steve Vai"
+}, 
+{
+"name": "Joe Satriani"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Brendon Small"
+}, 
+{
+"/influence/influence_node/influenced_by": [
+{
+"name": "Lenny Bruce"
+}, 
+{
+"name": "Spike Milligan"
+}
+], 
+"type": "/base/americancomedy/comedian", 
+"name": "Peter Cook"
+}
+]
+}
