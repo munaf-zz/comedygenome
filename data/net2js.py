@@ -19,13 +19,8 @@ for line in netfile.readlines():
 		continue
 	
 	if vert is True:
-		#print line.split('"')
 		name = line.split('"')[1].strip()
-
-		#name = name.strip()
-		#name.replace('"', '')
-
-		output['nodes'].append(name)
+		output['nodes'].append({'name': name})
 	
 	if arcs is True:
 		(src,target) = line.split()

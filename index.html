@@ -57,7 +57,7 @@
             .fillStyle(function(d) d.fix ? "brown" : colors(1))
             .strokeStyle(function() this.fillStyle().darker())
             .lineWidth(1)
-            .title(function(d) d)
+            .title(function(d) d.name)
             .event("mousedown", pv.Behavior.drag())
             .event("drag", force);
 
