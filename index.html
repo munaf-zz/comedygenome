@@ -25,7 +25,7 @@
 
 	<script src="js/libs/modernizr-2.5.2.min.js"></script>
   <script src="js/libs/protovis.min.js"></script>
-  <script src="data/data.js"></script>
+  <script src="data/comedians.js"></script>
 </head>
 <body>
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
@@ -33,7 +33,7 @@
     <div class="container">
 
       <div class="hero-unit">
-        <h1>Standup Comedy Genome Project</h1>
+        <h1>Standup Comedy Genome Project<br/></h1>
         <script type="text/javascript+protovis">
 
           var w = 980,
@@ -43,21 +43,21 @@
           var vis = new pv.Panel()
             .width(w)
             .height(h)
-            .event("mousedown", pv.Behavior.pan())
-            .event("mousewheel", pv.Behavior.zoom());
+            .event("mousedown", pv.Behavior.pan());
 
           var force = vis.add(pv.Layout.Force)
-            .nodes(miserables.nodes)
-            .links(miserables.links);
+            .nodes(comedians.nodes)
+            .links(comedians.links)
+            .bound(true);
 
           force.link.add(pv.Line);
 
           force.node.add(pv.Dot)
             .size(function(d) (d.linkDegree + 4) * Math.pow(this.scale, -1.5))
-            .fillStyle(function(d) d.fix ? "brown" : colors(d.group))
+            .fillStyle(function(d) d.fix ? "brown" : colors(1))
             .strokeStyle(function() this.fillStyle().darker())
             .lineWidth(1)
-            .title(function(d) d.nodeName)
+            .title(function(d) d)
             .event("mousedown", pv.Behavior.drag())
             .event("drag", force);
 

@@ -1,0 +1,894 @@
+*Vertices 390 108
+1 "Bill Hicks"
+2 "Colin Quinn"
+3 "Jerry Seinfeld"
+4 "Ellen DeGeneres"
+5 "Joan Rivers"
+6 "Lily Tomlin"
+7 "Lisa Lampanelli"
+8 "Moms Mabley"
+9 "Rita Rudner"
+10 "Roseanne Barr"
+11 "Wendy Liebman"
+12 "Alan King"
+13 "Andrew Dice Clay"
+14 "Andy Kaufman"
+15 "Bill Maher"
+16 "Billy Crystal"
+17 "Bob Hope"
+18 "Bob Newhart"
+19 "Brian Regan"
+20 "Buddy Hackett"
+21 "Cedric the Entertainer"
+22 "Chris Tucker"
+23 "Daniel Tosh"
+24 "David Letterman"
+25 "Dennis Miller"
+26 "Dick Gregory"
+27 "Don Rickles"
+28 "Eddie Murphy"
+29 "Emo Philips"
+30 "Freddie Prinze"
+31 "Garry Shandling"
+32 "Jackie Martling"
+33 "Jeff Foxworthy"
+34 "Jonathan Winters"
+35 "Katt Williams"
+36 "Nick Swardson"
+37 "Nipsey Russell"
+38 "Paul Mooney"
+39 "Paul Rodríguez"
+40 "Redd Foxx"
+41 "Richard Belzer"
+42 "Rodney Dangerfield"
+43 "Sam Kinison"
+44 "Steve Allen"
+45 "Steve Martin"
+46 "Steven Wright"
+47 "Tom Lehrer"
+48 "Jerry Lewis"
+49 "Don Knotts"
+50 "Del Close"
+51 "Spike Milligan"
+52 "Buster Keaton"
+53 "Groucho Marx"
+54 "Oscar Wilde"
+55 "Robert Smigel"
+56 "Dan Aykroyd"
+57 "John Belushi"
+58 "Chevy Chase"
+59 "Jane Curtin"
+60 "Michael ODonoghue"
+61 "Don Novello"
+62 "Ben Stiller"
+63 "Danny Kaye"
+64 "Roscoe Arbuckle"
+65 "Jimmy Durante"
+66 "Ernie Kovacs"
+67 "Henny Youngman"
+68 "Adam Sandler"
+69 "Larry David"
+70 "Jackie Gleason"
+71 "Harpo Marx"
+72 "W. C. Fields"
+73 "Lenny Clarke"
+74 "Jack Paar"
+75 "Harold Ramis"
+76 "Phil Silvers"
+77 "Martin Short"
+78 "Flip Wilson"
+79 "Mort Sahl"
+80 "Irwin Corey"
+81 "Robert Benchley"
+82 "Dick Cavett"
+83 "Soupy Sales"
+84 "Foster Brooks"
+85 "Gregg Turkington"
+86 "Charlie Callas"
+87 "Victor Borge"
+88 "Benny Hill"
+89 "Jack Lemmon"
+90 "Harry Enfield"
+91 "Leslie Nielsen"
+92 "Ronnie Barker"
+93 "John Ritter"
+94 "Dean Martin"
+95 "Steve Sweeney"
+96 "Adrian Edmondson"
+97 "Rik Mayall"
+98 "John Berendt"
+99 "William Gaddis"
+100 "F. Van Wyck Mason"
+101 "George Santayana"
+102 "John Updike"
+103 "Judy Gold"
+104 "Red Skelton"
+105 "Will Rogers"
+106 "George Burns"
+107 "Dick Van Dyke"
+108 "Wavy Gravy"
+109 "Stephen Lynch"
+110 "Eddie Izzard"
+111 "Dean Obeidallah"
+112 "Margaret Cho"
+113 "Patton Oswalt"
+114 "Steve Hofstetter"
+115 "Russell Brand"
+116 "Denis Leary"
+117 "Henry Rollins"
+118 "T. Sean Shannon"
+119 "George Carlin"
+120 "Lewis Black"
+121 "Ron Bennington"
+122 "Joe Rogan"
+123 "Charlie Moreno"
+124 "David Cross"
+125 "Kevin Moyers"
+126 "Tom Rhodes"
+127 "Randy Chestnut"
+128 "Filmore Mescalito Holmes"
+129 "Dave Attell"
+130 "Brad Stine"
+131 "Ron White"
+132 "Artie Lange"
+133 "Frankie Boyle"
+134 "Bill Burr"
+135 "Andy Andrist"
+136 "Doug Stanhope"
+137 "Jimmy Dore"
+138 "Mitch Hedberg"
+139 "Radiohead"
+140 "Larry the Cable Guy"
+141 "Dave Chappelle"
+142 "Sarah Silverman"
+143 "Chris Rock"
+144 "John Poveromo"
+145 "Dan Rosenberg"
+146 "Carol Leifer"
+147 "Dat Phan"
+148 "Daren Streblow"
+149 "Ben Green"
+150 "Ricky Gervais"
+151 "Cem Yılmaz"
+152 "Amy Schumer"
+153 "Josh Blue"
+154 "Rosie Tran"
+155 "Kathy Griffin"
+156 "Paula Poundstone"
+157 "Whoopi Goldberg"
+158 "Richard Pryor"
+159 "Bill Cosby"
+160 "Henry Dumas"
+161 "Bernie Mac"
+162 "Phyllis Diller"
+163 "Jack Benny"
+164 "Woody Allen"
+165 "Tim Mars"
+166 "Jay Leno"
+167 "Jeff Duran"
+168 "Keith Malley"
+169 "Jim Florentine"
+170 "Jim Norton"
+171 "Hans Teeuwen"
+172 "Sacha Baron Cohen"
+173 "Ray Ellin"
+174 "Jami Gong"
+175 "Mel Brooks"
+176 "Johnny Carson"
+177 "Conan OBrien"
+178 "Ellen DeGeneres"
+179 "Ray Romano"
+180 "Jeff Dunham"
+181 "Chris Rush"
+182 "David H. Steinberg"
+183 "Norm Macdonald"
+184 "Ralphie May"
+185 "Martin Lawrence"
+186 "Noah Sife"
+187 "Cedric the Entertainer"
+188 "Jeff Dye"
+189 "Jimmy Kimmel"
+190 "Jon Stewart"
+191 "Jim Gaffigan"
+192 "H. Jon Benjamin"
+193 "J. R. Villareal"
+194 "Robert Mac"
+195 "Jimmy Fallon"
+196 "Pablo Francisco"
+197 "Brendon Small"
+198 "Stephen Colbert"
+199 "David Spade"
+200 "Tina Fey"
+201 "Dez Reed"
+202 "Lenny Bruce"
+203 "Elaine May"
+204 "Mike Nichols"
+205 "Lisa Lampanelli"
+206 "Andrew Dice Clay"
+207 "Russell Peters"
+208 "Bill Maher"
+209 "Sugar Sammy"
+210 "Howard Stern"
+211 "David Letterman"
+212 "Jimmy Pardo"
+213 "Jerry Seinfeld"
+214 "George Lopez"
+215 "Chris Tucker"
+216 "Jeff Garlin"
+217 "Andy Milonakis"
+218 "Jim Jeffries"
+219 "Ryan Maglunob"
+220 "Ed Helms"
+221 "Jimmy Carr"
+222 "Demetri Martin"
+223 "Eugene Mirman"
+224 "Judd Apatow"
+225 "Michael Cera"
+226 "Wayne Federman"
+227 "Bill Engvall"
+228 "Frank Caliendo"
+229 "Robin Williams"
+230 "Robert Klein"
+231 "Bill Murray"
+232 "Richard Lewis"
+233 "Cheech &amp; Chong"
+234 "Barack Obama"
+235 "Michael Jackson"
+236 "Eddie Griffin"
+237 "Carlos Mencia"
+238 "Sandra Bernhard"
+239 "Gabriel Iglesias"
+240 "Cardis Cardell Willis"
+241 "Paul Mooney"
+242 "Jamie Foxx"
+243 "Eddie Murphy"
+244 "Bob Saget"
+245 "Nipsey Russell"
+246 "Michael Douglas"
+247 "Dennis Miller"
+248 "Jackie Martling"
+249 "Bill Hicks"
+250 "Jim Carrey"
+251 "Jim Breuer"
+252 "Marc Maron"
+253 "Pauly Shore"
+254 "Rob Paravonian"
+255 "Will Forte"
+256 "Will Arnett"
+257 "David Walliams"
+258 "Howie Mandel"
+259 "Dane Cook"
+260 "Andy Samberg"
+261 "Vic Reeves"
+262 "Louis C.K."
+263 "Weird Al Yankovic"
+264 "Dr. Demento"
+265 "Sammy J"
+266 "Steve Martin"
+267 "Monty Python"
+268 "John Cleese"
+269 "Paul Merton"
+270 "Shaun Micallef"
+271 "Kenny Everett"
+272 "Colin Galbraith"
+273 "Nick Jameson"
+274 "Harry Hill"
+275 "Peter Cook"
+276 "Don Hertzfeldt"
+277 "Spike Milligan"
+278 "Jeffrey Morgan"
+279 "Bob Black"
+280 "Rodney Dangerfield"
+281 "Milton Berle"
+282 "Stoo Hample"
+283 "Samuel Beckett"
+284 "André Gide"
+285 "James Joyce"
+286 "James Morrow"
+287 "Erico Verissimo"
+288 "Enchi Fumiko"
+289 "Irène Némirovsky"
+290 "Max Beerbohm"
+291 "Lawrence Durrell"
+292 "Camille Paglia"
+293 "Dave Sim"
+294 "Mateiu Caragiale"
+295 "W. H. Pugmire"
+296 "Jorge Luis Borges"
+297 "Amanda Filipacchi"
+298 "Stephen Fry"
+299 "Christopher Hitchens"
+300 "Dave Eggers"
+301 "Renzo Novatore"
+302 "Morrissey"
+303 "Jun Tsuji"
+304 "Walt Whitman"
+305 "Benjamin Tucker"
+306 "Saki"
+307 "Tom Stoppard"
+308 "Junichirō Tanizaki"
+309 "Emma Goldman"
+310 "Mike Myers"
+311 "Chris Farley"
+312 "Seth Rogen"
+313 "Broken Lizard"
+314 "Rasika Mathur"
+315 "Tim Allen"
+316 "Will Ferrell"
+317 "Josh Flitter"
+318 "Jonathan Miller"
+319 "Andre Vincent"
+320 "Buster Keaton"
+321 "Charlie Chaplin"
+322 "Chevy Chase"
+323 "Craig Ferguson"
+324 "Jim Henson"
+325 "Jack Dee"
+326 "Casper Christensen"
+327 "Adam Ferrara"
+328 "John Bluto Blutarsky"
+329 "Ed McMahon"
+330 "Don Rickles"
+331 "Alan King"
+332 "Larry David"
+333 "Kieran Sells"
+334 "Arsenio Hall"
+335 "Dick Gregory"
+336 "Will Durst"
+337 "Shelley Berman"
+338 "Mort Sahl"
+339 "Jonathan Winters"
+340 "Bob Newhart"
+341 "Tom Smothers"
+342 "Dave Barry"
+343 "James Thurber"
+344 "Dorothy Parker"
+345 "S. J. Perelman"
+346 "David Sedaris"
+347 "Groucho Marx"
+348 "Paul Reubens"
+349 "Andy Kaufman"
+350 "Tim Heidecker"
+351 "Dudley Moore"
+352 "Joseph Neibich"
+353 "Kathy Burke"
+354 "Peter Kay"
+355 "Richard Herring"
+356 "Savannah"
+357 "David Foster Wallace"
+358 "Don DeLillo"
+359 "David Markson"
+360 "Ian Fleming"
+361 "Gertrude Stein"
+362 "Walter Lippmann"
+363 "Harry Austryn Wolfson"
+364 "W.E.B. Du Bois"
+365 "Eric Voegelin"
+366 "William James"
+367 "Bertrand Russell"
+368 "John Rawls"
+369 "John Lachs"
+370 "Ian McEwan"
+371 "Lloyd Kropp"
+372 "Ceridwen Dovey"
+373 "Ann Beattie"
+374 "Rick Moody"
+375 "Martin Amis"
+376 "T. Coraghessan Boyle"
+377 "Richard Ford"
+378 "David Baddiel"
+379 "Jonathan Lethem"
+380 "George Saunders"
+381 "Joseph ONeill"
+382 "Orhan Pamuk"
+383 "Alice Munro"
+384 "Julian Barnes"
+385 "Ethan Canin"
+386 "Philip Roth"
+387 "Woody Guthrie"
+388 "Garret Schuelke"
+389 "Jack Paar"
+390 "Allen Ginsberg"
+*Arcs
+1 109
+1 110
+1 111
+1 112
+1 113
+1 114
+1 115
+1 116
+1 117
+1 118
+1 119
+1 120
+1 121
+1 122
+1 123
+1 124
+1 125
+1 126
+1 127
+1 128
+1 129
+1 130
+1 131
+1 132
+1 133
+1 134
+1 135
+1 136
+1 137
+1 138
+1 139
+1 140
+1 141
+1 142
+1 143
+2 129
+3 144
+3 114
+3 145
+3 146
+3 147
+3 148
+3 149
+3 150
+3 138
+3 151
+4 152
+4 153
+5 154
+5 155
+5 149
+6 120
+6 156
+7 154
+8 157
+8 158
+8 159
+8 160
+8 161
+8 162
+9 163
+9 164
+10 165
+11 152
+12 166
+13 167
+13 168
+13 169
+13 132
+13 170
+14 171
+14 172
+15 144
+15 120
+15 137
+16 144
+16 173
+17 164
+17 174
+17 175
+17 176
+17 177
+18 120
+18 166
+18 177
+18 178
+18 126
+18 179
+18 180
+18 181
+18 182
+18 183
+18 138
+18 176
+19 148
+19 147
+20 147
+20 184
+21 185
+22 186
+22 141
+22 187
+23 188
+24 189
+24 177
+24 190
+24 145
+24 191
+24 132
+24 192
+24 193
+24 194
+24 173
+24 166
+24 195
+24 196
+24 137
+24 197
+25 198
+25 190
+25 142
+25 199
+25 200
+25 201
+25 194
+25 137
+26 158
+26 143
+26 202
+26 119
+26 203
+26 204
+26 159
+27 205
+27 166
+27 206
+27 207
+27 129
+27 132
+27 192
+27 140
+27 155
+27 208
+27 209
+27 210
+27 170
+27 211
+27 212
+27 176
+27 213
+28 141
+28 185
+28 143
+28 214
+28 207
+28 215
+28 216
+28 217
+28 218
+28 201
+28 173
+28 209
+28 219
+28 220
+29 113
+29 221
+29 222
+29 223
+29 138
+30 214
+31 150
+31 224
+31 225
+31 226
+31 173
+31 149
+31 190
+32 132
+33 140
+33 131
+33 227
+34 159
+34 113
+34 228
+34 229
+34 230
+34 119
+34 231
+34 158
+34 232
+34 233
+35 214
+36 188
+37 234
+37 161
+37 235
+38 158
+38 214
+38 236
+38 237
+38 238
+38 141
+39 239
+40 158
+40 167
+40 240
+40 241
+40 206
+40 242
+40 143
+40 243
+40 161
+40 129
+40 244
+40 185
+40 235
+40 245
+40 159
+40 246
+41 247
+42 177
+42 240
+42 230
+42 248
+42 132
+42 143
+42 244
+42 166
+42 167
+43 167
+43 249
+43 143
+43 250
+43 126
+43 122
+43 201
+43 251
+43 129
+43 130
+43 132
+43 252
+43 170
+43 136
+43 184
+43 131
+43 253
+44 211
+44 208
+44 177
+44 176
+45 142
+45 110
+45 113
+45 143
+45 254
+45 190
+45 207
+45 198
+45 224
+45 255
+45 256
+45 257
+45 200
+45 125
+45 194
+45 258
+45 251
+45 140
+45 259
+45 130
+45 260
+45 132
+45 261
+45 262
+45 196
+45 197
+46 222
+46 221
+46 138
+46 129
+47 263
+47 264
+47 265
+48 119
+48 243
+48 250
+48 266
+49 192
+50 231
+51 267
+51 268
+51 269
+51 270
+51 110
+51 271
+51 261
+51 272
+51 273
+51 274
+51 275
+52 269
+52 164
+52 276
+53 159
+53 277
+53 164
+53 176
+53 231
+53 278
+53 279
+53 280
+53 281
+53 282
+54 283
+54 284
+54 285
+54 286
+54 287
+54 288
+54 289
+54 290
+54 291
+54 269
+54 292
+54 293
+54 294
+54 295
+54 296
+54 297
+54 298
+54 299
+54 300
+54 301
+54 302
+54 303
+54 304
+54 305
+54 306
+54 307
+54 308
+54 309
+55 177
+56 310
+57 132
+57 311
+57 310
+57 312
+58 313
+58 314
+58 256
+58 315
+58 316
+58 310
+59 310
+60 278
+61 198
+62 314
+62 317
+63 119
+63 177
+63 318
+64 319
+64 320
+64 321
+65 159
+66 119
+66 211
+66 322
+66 278
+66 323
+66 324
+67 140
+68 224
+68 314
+68 260
+68 195
+69 325
+69 142
+69 150
+69 213
+69 216
+69 149
+69 326
+69 197
+70 132
+70 327
+71 328
+72 277
+72 329
+72 231
+72 280
+72 177
+73 262
+74 211
+74 176
+74 330
+74 119
+74 230
+74 331
+75 224
+76 332
+77 333
+77 173
+78 143
+78 241
+78 334
+79 119
+79 335
+79 240
+79 143
+79 202
+79 164
+79 166
+79 336
+79 249
+79 208
+79 233
+80 337
+80 338
+80 339
+80 340
+80 341
+80 202
+81 340
+81 342
+81 343
+81 164
+81 266
+81 344
+81 249
+81 345
+81 346
+81 347
+82 177
+83 348
+83 349
+84 192
+84 245
+85 350
+86 140
+86 192
+87 226
+87 351
+88 147
+88 196
+89 352
+90 353
+91 192
+92 354
+93 147
+94 198
+94 247
+94 205
+94 245
+94 192
+95 262
+96 257
+97 257
+97 355
+98 356
+99 357
+99 358
+99 359
+100 360
+101 361
+101 362
+101 363
+101 364
+101 365
+101 366
+101 367
+101 368
+101 369
+102 370
+102 371
+102 372
+102 373
+102 374
+102 375
+102 376
+102 377
+102 378
+102 379
+102 380
+102 381
+102 382
+102 383
+102 384
+102 385
+102 386
+102 357
+103 152
+104 266
+104 176
+105 338
+105 387
+105 388
+105 389
+106 240
+106 176
+107 250
+108 390
