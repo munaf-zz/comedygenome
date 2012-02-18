@@ -4,15 +4,20 @@
    Author:
    ========================================================================== */
 
+html, body {
+	background: #303030;
+	color: white;
+}
 
+h1, h2 {
+	color: white;
+}
 
+hr {
+	color: #b0b0b0;
+}
 
-
-
-
-
-
-
-
-
+footer {
+	color: gray;
+}
 
