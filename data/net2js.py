@@ -32,6 +32,11 @@ for line in netfile.readlines():
 
 netfile.close()
 
-outfile = open('comedians.js', 'w')
-outfile.write('var comedians = ' + json.dumps(output) + ';')
+links = []
+for link in output['links']:
+	links.append({'source': output['nodes'][link['source']]['name'],
+				 'target': output['nodes'][link['target']]['name']})
+
+outfile = open('links.js', 'w')
+outfile.write('var links = ' + json.dumps(links) + ';')
 outfile.close()

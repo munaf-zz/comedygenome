@@ -4,13 +4,20 @@
    Author:
    ========================================================================== */
 
-html, body {
-	background: #303030;
+body {
+	background: black;
 	color: white;
+	padding-top: 20px;
 }
 
 h1, h2 {
 	color: white;
+}
+
+#chart {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
 }
 
 hr {
@@ -21,3 +28,27 @@ footer {
 	color: gray;
 }
 
+text {
+  font: 14px sans-serif;
+  font-weight: bold;
+  fill: #009DFF;
+  pointer-events: none;
+}
+
+
+circle.node {
+  cursor: pointer;
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1.5px;
+}
+
+
+#arrow1 {
+  fill: gray;
+}
