@@ -1,5 +1,4 @@
 var fs = require('fs'),
-  _ = require('underscore'),
   comedians = require('./data/comedians.json').result,
   graph = {nodes: [], links: [], lookup: {}};
 
@@ -10,28 +9,28 @@ function add(comedian) {
   }
 }
 
-// Clean up
-comedians = _.filter(comedians,
-  function(comedian) {
-    return (comedian.influenced.length > 0) || (comedian.influenced_by.length > 0);
-  });
+// Remove stray nodes
+comedians = comedians.filter(function(comedian) {
+  return (comedian.influenced.length > 0) || (comedian.influenced_by.length > 0);
+});
 
-// Transform into nodes
-_.each(comedians, function(comedian) {
+// Add nodes to graph
+comedians.forEach(function(comedian) {
   add(comedian.name);
 });
 
-_.each(comedians, function(comedian, index) {
-  var c = graph.lookup[comedian.name]; 
+// Add edges to graph
+comedians.forEach(function(comedian) {
+  var node = graph.lookup[comedian.name];
 
-  _.each(comedian.influenced, function(influenced, index) {
+  comedian.influenced.forEach(function(influenced) {
     add(influenced);
-    graph.links.push({ source: c, target: graph.lookup[influenced] });
+    graph.links.push({ source: node, target: graph.lookup[influenced] });
   });
 
-  _.each(comedian.influenced_by, function(influenced_by, index) {
-    add(influenced_by);
-    graph.links.push({ source: graph.lookup[influenced_by], target: c });
+  comedian.influenced_by.forEach(function(influencer) {
+    add(influencer);
+    graph.links.push({ source: graph.lookup[influencer], target: node });
   });
 
 });
