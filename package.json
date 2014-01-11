@@ -1,0 +1,12 @@
+{
+  "name": "comedy-genome",
+  "version": "2.0.0",
+  "author": "Munaf Assaf <munaf.assaf@gmail.com>",
+  "description": "Network visualization of a comedian influence network",
+  "dependencies" : {
+    "underscore":  "latest"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
